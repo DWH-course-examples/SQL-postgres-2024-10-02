@@ -13,8 +13,6 @@ https://www.db-fiddle.com/f/jXmhmdePRrMNN1AmCjVooZ/0#&togetherjs=6TeInkcAP4
 Чат 2:
 https://www.db-fiddle.com/f/ofKNUjZjzrHFjof9db2Yye/0#&togetherjs=6TeInkcAP4
 
-Обмен текстами: https://clck.ru/3DfRt5
-
 ## Программа курса (40 ак. ч.)
 1. популярные архитектуры работы с данными
 2. популярные инструменты для работы с данными
@@ -65,7 +63,7 @@ https://www.db-fiddle.com/f/ofKNUjZjzrHFjof9db2Yye/0#&togetherjs=6TeInkcAP4
 
 ## Домашние работы
 
-результаты выполнения ДЗ вносим в табличку: [результаты](https://docs.google.com/spreadsheets/d/1G5KxNMtmrpXkiyYiT9cK0Yya3T_2G695SKctopc-PNs/edit?usp=sharing)
+результаты выполнения ДЗ вносим в табличку: [результаты](https://docs.google.com/spreadsheets/d/1Or9DLd3Z_M0XwfSLeVvklx8c7debofA2Jbb8hCQmz6E/edit?usp=sharing)
 - указать свое имя (фамиля, отчество, nickname)
 - эл. почту (информация для организаторов курса для отслеживания прогресса обучения)
 - ссылку / ссылки на решение задачи
