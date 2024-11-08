@@ -1,3 +1,5 @@
+https://www.db-fiddle.com/f/aoaJFzWsMpy67iFBYWMjmu/43
+
 ## DDL
 
 ```sql
