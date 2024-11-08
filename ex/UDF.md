@@ -35,3 +35,25 @@ END $$;
 - можно было указывать нужную роль
 - можно было указывать параметры пользователя (login, username, email)
 - \* можно было автоматически генерировать логин, пароль
+
+## Упражнение 2
+
+https://www.db-fiddle.com/f/9ARWiFLirQs6MNRapAmSDd/2
+
+```sql
+CREATE FUNCTION calc_sum(n int) RETURNS numeric(10,3) AS $$
+DECLARE
+	i decimal;
+	s numeric(10,3);
+BEGIN
+	SELECT 0 into s;
+	FOR i IN 1..n LOOP
+    	SELECT s+1/(i*i)::decimal INTO s;
+    END LOOP;
+	RETURN s;
+END;
+$$ LANGUAGE plpgsql;
+
+select calc_sum(1000)
+-- 1/1 + 1/4 + 1/9 + 1/16 + 1/25
+```
